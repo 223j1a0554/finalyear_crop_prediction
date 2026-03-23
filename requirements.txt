@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+streamlit
+matplotlib
+seaborn
+pickle-mixin
+joblib
+geopy
+requests
+flask
